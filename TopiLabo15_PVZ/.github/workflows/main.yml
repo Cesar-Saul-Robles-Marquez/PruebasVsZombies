@@ -9,7 +9,7 @@ on:
 
 jobs:
   build-and-test:
-    # Usamos Windows porque la aplicación de escritorio necesita este entorno para compilar correctamente
+    # Usamos Windows porque la aplicación de escritorio necesita este entorno para compilar 
     runs-on: windows-latest
 
     steps:
